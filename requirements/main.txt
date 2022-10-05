@@ -7,7 +7,7 @@ cattrs==0.8.1
 cffi==1.11.5              # via cryptography
 click==6.7
 contextvars==2.2          # via trio
-cryptography==2.3
+cryptography==3.2
 h11==0.8.1                # via asks
 idna==2.7                 # via cryptography, trio
 immutables==0.5           # via contextvars
@@ -17,7 +17,7 @@ oauthlib==2.1.0
 outcome==0.1.0            # via trio
 packaging==17.1
 pycparser==2.18           # via cffi
-pyjwt==1.6.4
+pyjwt==2.4.0
 pyparsing==2.2.0
 python-dateutil==2.7.3    # via arrow
 six==1.11.0               # via cryptography, packaging, python-dateutil, tenacity
