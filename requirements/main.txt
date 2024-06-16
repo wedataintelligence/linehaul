@@ -7,7 +7,7 @@ cattrs==0.8.1
 cffi==1.11.5              # via cryptography
 click==6.7
 contextvars==2.2          # via trio
-cryptography==2.3
+cryptography==42.0.8
 h11==0.8.1                # via asks
 idna==2.7                 # via cryptography, trio
 immutables==0.5           # via contextvars
