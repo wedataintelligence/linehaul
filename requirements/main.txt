@@ -9,7 +9,7 @@ click==6.7
 contextvars==2.2          # via trio
 cryptography==2.3
 h11==0.8.1                # via asks
-idna==2.7                 # via cryptography, trio
+idna==3.7                 # via cryptography, trio
 immutables==0.5           # via contextvars
 importlib-resources==1.0.1
 multio==0.2.3             # via asks
